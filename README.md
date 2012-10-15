@@ -1,0 +1,4 @@
+pardus-packages
+===============
+
+Pardus paketlerim
