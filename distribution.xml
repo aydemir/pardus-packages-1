@@ -1,0 +1,11 @@
+<PISI>
+    <SourceName>Pardus</SourceName>
+    <Version>2013</Version>
+    <Description xml:lang="tr">Pardus ANKA 2013 Deposu</Description>
+    <Description xml:lang="en">Pardus ANKA 2013 Repository</Description>
+    <Type>Core</Type>
+    <BinaryName>Pardus</BinaryName>
+    <Obsoletes>
+        <Package>grub</Package>
+    </Obsoletes>
+</PISI>
