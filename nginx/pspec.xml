@@ -17,9 +17,6 @@
             <Dependency>gd-devel</Dependency>
             <Dependency>geoip-devel</Dependency>
         </BuildDependencies>
-        <Patches>
-            <Patch>use-htdocs-dir.patch</Patch>
-        </Patches>
     </Source>
 
     <Package>

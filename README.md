@@ -1,4 +1,4 @@
 pardus-packages
 ===============
 
-Pardus paketlerim
+Pardus 2011 için 64bit paketlerim
