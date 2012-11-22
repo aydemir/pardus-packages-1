@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<PISI>
+    <Source>
+        <Name>lighttpd</Name>
+        <Summary xml:lang="tr">Güvenli, hızlı ve esnek bir web sunucusu</Summary>
+        <Description xml:lang="tr">Güvenli, hızlı ve esnek bir web sunucusu.</Description>
+    </Source>
+</PISI>
