@@ -7,3 +7,4 @@ Requirements
  - syslinux
  - squashfs-tools
  - pyqtermwidget (Required for GUI)
+ - python-qt-devel
